@@ -198,5 +198,3 @@ If you encounter any issues, please check:
 ---
 
 **Developed for Internship Application**
-# shubhamGUVItask
-# shubhamGUVItask
